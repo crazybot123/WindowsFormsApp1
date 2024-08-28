@@ -63,6 +63,7 @@
             this.checkBox1.TabIndex = 94;
             this.checkBox1.Text = "checkBox1";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.ChangeUICues += new System.Windows.Forms.UICuesEventHandler(this.checkBox1_ChangeUICues);
             // 
             // Form1
             // 

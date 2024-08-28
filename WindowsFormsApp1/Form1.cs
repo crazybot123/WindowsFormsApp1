@@ -73,6 +73,11 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void checkBox1_ChangeUICues(object sender, UICuesEventArgs e)
+        {
+            //123
+        }
     }
 
     public class Customers
